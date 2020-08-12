@@ -1,11 +1,10 @@
-### Hi there 👋
 ### Hi there 👋, my name is Natalia
 ####  Web Developer
 With over 15 years of experience in creative industries, I now combine professional-quality design aesthetics with tech skills.
 
 Skills: JS / REACT / HTML / CSS/ NODE / EXPRESS
 
-- 🔭 I’m currently working on my portfolio, still more things to come 
+- 🔭 I’m currently working on my portfolio, more things still to come 
 - 📫 How to reach me: natalia.kiselev@icloud.com 
 
 
