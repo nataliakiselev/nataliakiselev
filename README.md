@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Natalia.
 
-I am a Web Developer specialising in JavaScript, React and CSS, using Node.js on the back-end.
+I am a graduate Web Developer specialising in JavaScript, React and CSS, using Node.js on the back-end.
 
 With over 15 years of experience in creative industries, I now combine professional-quality design aesthetics with tech skills.
 
