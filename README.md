@@ -5,6 +5,7 @@ With over 15 years of experience in creative industries, I now combine professio
 Skills: JS / REACT / HTML / CSS/ NODE / EXPRESS
 
 - 🔭 I’m currently working on my portfolio, more things still to come 
+- more of my coding practce on codepen: https://codepen.io/collection/XvWRjG
 - 📫 How to reach me: natalia.kiselev@icloud.com 
 
 
