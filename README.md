@@ -2,13 +2,13 @@
 
 I am a graduate Web Developer specialising in JavaScript, React and CSS, using Node.js on the back-end.
 
-With over 15 years of experience in creative industries, I now combine professional-quality design aesthetics with tech skills.
+With over 15 years of experience in creative industries, I combine tech skills with professional-quality design aesthetics.
 
-Skills: JS / REACT / HTML / CSS/ NODE / EXPRESS
+Skills: JS / REACT / NODE / EXPRESS / CSS 
 
-- 🔭 I’m currently working on my portfolio, more things still to come 
+- 🔭 I’m currently working on my portfolio, more things to come 
 - more of my coding practce on codepen: https://codepen.io/collection/XvWRjG
-- 📫 How to reach me: natalia.kiselev@icloud.com 
+- 📫 Contact: natalia.kiselev@icloud.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nataliakiselev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nataliakiselev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kiselev_natalia)  
