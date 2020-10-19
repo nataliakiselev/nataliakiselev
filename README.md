@@ -1,4 +1,4 @@
-# Hi, I'm Natalia.
+### Hi, I'm Natalia.
 
 I am a graduate Full Stack Web Developer specialising in JavaScript, React and CSS, utilising Node.js and Express.
 
@@ -12,11 +12,11 @@ Skills: JS / REACT / NODE / EXPRESS / CSS
  
  ## Portfolio - some of my projects demos
  
- ### ✨ [Agency App - MERN](https://agency-app-react.web.app)
+ #### ✨ [Agency App - MERN](https://agency-app-react.web.app)
 
-### ✨ [Updater App -React](https://updater.netlify.app/)
+#### ✨ [Updater App -React](https://updater.netlify.app/)
 
-### ✨ [NOWNESS Homepage (HTML/CSS only)](https://nowness-copy.netlify.app)
+#### ✨ [NOWNESS Homepage (HTML/CSS only)](https://nowness-copy.netlify.app)
 
 
 
