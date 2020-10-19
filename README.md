@@ -10,7 +10,7 @@ Skills: JS / REACT / NODE / EXPRESS / CSS
 - more of my coding practice on codepen: https://codepen.io/collection/XvWRjG
 - contact: natalia.kiselev1@gmail.com
  
- ## Portfolio - some of my projects demos
+ ### Portfolio - some of my projects demos
  
  #### ✨ [Agency App - MERN](https://agency-app-react.web.app)
 
