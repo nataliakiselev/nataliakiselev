@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Natalia.
+# Hi, I'm Natalia.
 
 I am a graduate Full Stack Web Developer specialising in JavaScript, React and CSS, utilising Node.js and Express.
 
