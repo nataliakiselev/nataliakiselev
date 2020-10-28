@@ -2,7 +2,7 @@
 
 I am a graduate Full Stack Web Developer specialising in JavaScript, React and CSS, utilising Node.js and Express.
 
-With over 15 years of experience in creative industries, I combine tech skills with professional-quality design aesthetics.
+With over 15 years of experience in creative industries, I combine tech skills with an eye for quality design aesthetics.
 
 Skills: JS / REACT / NODE / EXPRESS / CSS 
 
