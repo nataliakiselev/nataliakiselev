@@ -16,6 +16,8 @@ Skills: JS / REACT / NODE / EXPRESS / CSS
 
 #### ✨ [Updater App -React](https://updater.netlify.app/)
 
+#### ✨ [Wanderlust -React](https://updater.netlify.app/)
+
 #### ✨ [NOWNESS Homepage (HTML/CSS only)](https://nowness-copy.netlify.app)
 
 
