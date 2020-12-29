@@ -13,6 +13,7 @@ Skills: JS / REACT / NODE / EXPRESS / CSS
  ### Some of my projects live demos:
  
  #### ✨ [Agency App - MERN](https://agency-app-react.web.app)
+ currently in refactoring with react context and addding react-hook-form and yup validation, but functional.
 
 #### ✨ [Updater App -React](https://updater.netlify.app/)
 
