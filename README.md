@@ -10,7 +10,7 @@ Skills: JS / REACT / NODE / EXPRESS / CSS
 - more of my coding practice on codepen: https://codepen.io/collection/XvWRjG
 - contact: natalia.kiselev1@gmail.com
  
- ### Some of my projects live demos:
+ ### Some of my projects live demos (code repos below):
  
  #### ✨ [Agency App - MERN](https://agency-app-react.web.app)
  currently in refactoring with react context and addding react-hook-form and yup validation, but functional.
