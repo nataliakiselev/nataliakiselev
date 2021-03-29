@@ -1,8 +1,9 @@
 ### Hi, I'm Natalia.
 
-I am a graduate Full Stack Web Developer specialising in JavaScript, React and CSS, utilising Node.js and Express.
+I am a creative Full Stack Web Developer specialising in JavaScript, React and CSS, utilising Node.js and Express.
 
-With over 15 years of experience in creative industries, I combine tech skills with an eye for quality design aesthetics.
+With over 15 years of experience in creative industries, I combine software engineering skills with an eye for quality design.
+
 
 Skills: JS / REACT / NODE / EXPRESS / CSS 
 
