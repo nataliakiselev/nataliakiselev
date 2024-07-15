@@ -1,1 +1,1 @@
-Developer specialising in JavaScript
+Software engineer specialising in JavaScript
